@@ -1,0 +1,31 @@
+ul
+{
+	display : inline-block;
+	list-style: none;
+	color:#549328;
+}
+
+body
+{
+	
+	background-image: url(img.jpg);
+	background-size: cover;
+}
+
+a
+{
+	color:#549328;
+}
+
+p
+{
+	color:#549328;
+}
+
+h2
+{
+	color: #1F4B00;
+	text-align: center;
+	border: solid;
+	cursor: not-allowed;
+}
